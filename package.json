@@ -1,0 +1,14 @@
+{
+  "name": "unittests",
+  "version": "1.0.0",
+  "description": "Tutorial for unit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha './test/**/*.spec.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
