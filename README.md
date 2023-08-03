@@ -7,7 +7,7 @@ Tutorial for unit tests
 [TestingNodeWithMocha Git repository](https://github.com/jonathanfmills/TestingNodeWithMocha.git)
 
 Mocha
-Chai for asserts
+Chai for asserts - chaijs.com
 Sinon for mocking
 Istanbul for code coverage
 
