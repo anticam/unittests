@@ -13,3 +13,23 @@ Istanbul for code coverage
 
 
 When async function is called, pass done, then call done().
+
+expect
+```
+expect(something)to.be...
+expect(something).to.equal...
+expect(something).to.have...
+
+expect(auth).to.be.true
+
+```
+
+should
+```
+something.should.be...
+something.should.equal...
+something.should.have...
+
+auth.should.be.true...
+
+```
